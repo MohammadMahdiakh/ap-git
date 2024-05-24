@@ -4,7 +4,7 @@ void Purple(){printf("\033[0;35m");}
 void Blue (){printf("\033[0;34m");}
 int main () {
 red();
-printf("Hello ");
+printf("Hello mamad ");
 Purple();
 printf("world");
 Blue();
